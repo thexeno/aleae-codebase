@@ -1,0 +1,11 @@
+{
+    "cortex-debug.gdbPath": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.2 Rel1/bin/arm-none-eabi-gdb.exe",
+    "cortex-debug.openocdPath": "C:/ProgramData/chocolatey/lib/openocd/tools/install/bin/openocd.exe",
+    "cortex-debug.variableUseNaturalFormat": true,
+    "cortex-debug.stlinkPath": "C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32_2.1.0.202305091550/tools/bin/ST-LINK_gdbserver.exe",
+    "files.associations": {
+        "stm32f103xb.h": "c",
+        "core_cm3.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
